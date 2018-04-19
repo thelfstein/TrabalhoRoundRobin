@@ -15,10 +15,7 @@ public class Processo {
         this.chegada = chegada;
         this.duracao = duracao;
     }
-    
-    /*public Processo(String nome){
-        this.Nome= nome;
-    }*/
+   
     public String getNome() {
         return Nome;
     }
